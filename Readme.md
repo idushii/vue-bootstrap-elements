@@ -1,10 +1,14 @@
 # Установка
 
-`npm install vue-bootstrap-elements`
+Установить
 
+`npm install vue-bootstrap-elements`
 
 `yarn add vue-bootstrap-elements`
 
+Подключить
+
+`require('vue-bootstrap-elements');`
 
 # Вводная
 
