@@ -1,3 +1,11 @@
+# Установка
+
+`npm install vue-bootstrap-elements`
+
+
+`yarn add vue-bootstrap-elements`
+
+
 # Вводная
 
 Мне нравится настраиваемость фреймворка bootstrap, его унифицированность и предсказуемое поведение.
