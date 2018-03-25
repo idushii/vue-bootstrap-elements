@@ -1,0 +1,27 @@
+{
+  "name": "vue-bootstrap-elements",
+  "version": "0.0.1",
+  "description": "Написание кода bootstrap с минимальным количеством кода.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idushii/vue-bootstrap-elements.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vuejs2",
+    "components",
+    "bootstrap4",
+    "bootstrap"
+  ],
+  "author": "Nicolay Ilinov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idushii/vue-bootstrap-elements/issues"
+  },
+  "homepage": "https://github.com/idushii/vue-bootstrap-elements#readme"
+}
